@@ -2,7 +2,7 @@ from outcomes import outcomes, desired_outcomes
 
 def run(): 
     stratergy_guide = read_file_spaceless('rps.txt')
-    print(stratergy_guide)
+
     stratergy_points = calculate_score(stratergy_guide)
     print(stratergy_points)
     desired_stratergy_points = calculate_desired_score(stratergy_guide)
@@ -22,10 +22,7 @@ def read_file_spaceless(path):
 
     with open(path) as file:
         for line in file:
-            output.append(line.strip())
-
-    for i in range(len(output)):
-        output[i] = output[i].replace(" ", "")
+            output.append(line.strip().replace(" ", ""))
 
     return output
 
