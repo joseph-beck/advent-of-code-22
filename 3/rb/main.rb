@@ -1,0 +1,3 @@
+require './rucksacks.rb'
+
+run()
