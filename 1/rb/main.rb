@@ -1,0 +1,3 @@
+require './calories.rb'
+
+run()
