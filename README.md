@@ -12,7 +12,7 @@ day 4: py & rb
 
 day 5: py & rb(doesn't work)
 
-day 6: py & rb
+day 6: py & rb & js
 
 
 ------------------------------------------------
