@@ -2,19 +2,19 @@
 
 ## worlds most evil advent calander 
 
-day 1: py & rb & js
+day 1 - calorie counting: py & rb & js
 
-day 2: py & rb
+day 2 - rock paper scissors: py & rb
 
-day 3: py & rb
+day 3 - rucksack reorganization: py & rb
 
-day 4: py & rb
+day 4 - camp cleanup: py & rb
 
-day 5: py & rb(no work)
+day 5 - supply stacks: py & rb(no work)
 
-day 6: py & rb & js
+day 6 - tuning trouble: py & rb & js
 
-day 7: py & rb(incomplete)
+day 7 - no space left on device: py & rb(incomplete)
 
 
 ------------------------------------------------
