@@ -14,6 +14,8 @@ day 5: py & rb(no work)
 
 day 6: py & rb & js
 
+day 7: py & rb(incomplete)
+
 
 ------------------------------------------------
            *             ,
