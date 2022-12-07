@@ -2,7 +2,7 @@
 
 ## worlds most evil advent calander 
 
-day 1: py & rb
+day 1: py & rb & js
 
 day 2: py & rb
 
