@@ -1,0 +1,3 @@
+require './device'
+
+run()
