@@ -26,6 +26,12 @@ py & rb(incomplete)
 ### day 8 - treetop tree house:
 py & rb
 
+### day 9 - rope bridge:
+py & rb(incomplete)
+
+### day 10 - cathode-ray tube:
+py & rb(ChatGPT) & ts
+
 ------------------------------------------------
            *             ,
                        _/^\_
